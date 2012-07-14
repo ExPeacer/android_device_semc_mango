@@ -26,4 +26,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_mango.mk
+    $(LOCAL_DIR)/device_mango.mk

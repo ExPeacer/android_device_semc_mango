@@ -12,8 +12,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := $(call my-dir)
+LOCAL_PATH := device/semc/mango/
 
-# Least specific includes go first, so that they can get
-# overridden further down
-include $(CLEAR_VARS)
